@@ -1,2 +1,2 @@
 # CTesXEdit
-C# .NET implementation of TESxEdit
+C# .NET implementation of a parser for TES mod files.
