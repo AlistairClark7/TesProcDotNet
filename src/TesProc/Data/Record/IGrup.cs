@@ -2,7 +2,8 @@
 
 namespace TesEdit.Data.Record
 {
-    public interface IRecord : ISerializable
+    public interface IGrup : IRecord
     {
+         
     }
 }

@@ -2,6 +2,6 @@
 {
     public interface ITes4Record : IRecord
     {
-         
+
     }
 }

@@ -42,15 +42,20 @@
     <Compile Include="Data\GrupEnum.cs" />
     <Compile Include="Data\IMod.cs" />
     <Compile Include="Data\Mod.cs" />
+    <Compile Include="Data\Record\Hedr.cs" />
+    <Compile Include="Data\Record\IGrup.cs" />
+    <Compile Include="Data\Record\IHedr.cs" />
     <Compile Include="Data\Record\IRecord.cs" />
     <Compile Include="Data\Record\IActiRecord.cs" />
     <Compile Include="Data\Record\IAchrRecord.cs" />
     <Compile Include="Data\Record\IAactRecord.cs" />
     <Compile Include="Data\Record\IMajorRecord.cs" />
     <Compile Include="Data\Record\ITes4Record.cs" />
+    <Compile Include="Data\Record\Tes4Record.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Serialization\ModReader.cs" />
     <Compile Include="Serialization\ModSerializer.cs" />
+    <Compile Include="Serialization\ModWriter.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\Record\SubRecord\" />
