@@ -1,4 +1,4 @@
-﻿namespace TesEdit.Data
+﻿namespace TesEdit.Data.Record
 {
     public interface IRecord
     {

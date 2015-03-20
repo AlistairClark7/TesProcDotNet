@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesEdit", "TesEdit\TesEdit.csproj", "{57BF44F0-246C-447E-926B-D64D4C399571}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesProc", "TesProc\TesProc.csproj", "{57BF44F0-246C-447E-926B-D64D4C399571}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesEditTest", "TesEditTest\TesEditTest.csproj", "{D456AF5D-545B-4DD5-AFD9-82609D766FC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesProcTest", "TesProcTest\TesProcTest.csproj", "{D456AF5D-545B-4DD5-AFD9-82609D766FC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
