@@ -3,11 +3,11 @@ using System.IO;
 
 namespace TesEdit.Serialization
 {
-    public class ModFileStream : IDisposable
+    public class ModReader : IDisposable
     {
         private FileStream _fileStream;
 
-        public ModFileStream(string path)
+        public ModReader(string path)
         {
             _fileStream = new FileStream(path, FileMode.Open);
         }

@@ -11,7 +11,7 @@ namespace TesEdit.Data
         {
         }
 
-        public Mod(ModFileStream modStream)
+        public Mod(ModReader modStream)
         {
             
         }
